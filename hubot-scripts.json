@@ -1,1 +1,9 @@
-["redis-brain.coffee", "shipit.coffee"]
+["redis-brain.coffee", 
+"shipit.coffee",
+"time.coffee",
+"wikipedia.coffee",
+"working-on.coffee",
+"sosearch.coffee",
+"pomodoro.coffee",
+"imdb.coffee",
+"xkcd.coffee"]
